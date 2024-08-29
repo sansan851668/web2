@@ -1,0 +1,235 @@
+- name: 常用
+  icon: linecons-star
+  links:
+    - title: 中国知网
+      logo: https://i.ibb.co/dB3Jp2C/image.png
+      url: https://www.cnki.net/
+      description: 中国知网  
+    - title: 谷歌翻译
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GoogleTranslate.png
+      url: https://translate.google.cn/
+      description: 较为靠谱的翻译工具。  
+    - title: deepl write
+      logo: https://i.ibb.co/wwtpx1B/deepl.png
+      url: https://www.deepl.com/write
+      description: 对谷歌翻译的内容进行润色，改词。         
+    - title: Google 学术
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/google.png
+      url: https://scholar.google.cz/schhp?hl=cs
+      description: 需要翻墙 
+    - title: Academic Phrasebank
+      logo: https://i.ibb.co/5THBsqg/image.png
+      url: https://www.phrasebank.manchester.ac.uk/explaining-cause-and-effect/
+      description: 无需登录即可传输数据
+    - title: 术语查询网站
+      logo: https://i.ibb.co/K63dHJ5/image.jpg
+      url: https://www.termonline.cn/index/
+      description: 查询可能用到的文献术语
+    - title: wordtune
+      url: https://app.wordtune.com/editor/documents/8b60b720-8b23-44c1-80c6-6c2cf2ebfb0b
+      logo: https://i.ibb.co/vBqXWM2/wordtune.png
+      description: 论文改写，可以有很多的选项
+    - title: QuillBot 改写网站
+      url: https://quillbot.com/
+      logo: https://i.ibb.co/Ychm9vb/quillbot.jpg
+      description: 论文改写，使用高级功能可以去淘宝买账号hhh 
+    - title: 飞鹰智能文本纠错（科大讯飞）
+      logo: https://i.ibb.co/100GCx3/20240827115104.png
+      url: https://feiying.iflytek.com/
+      description: 文本纠错   
+    - title: letpub
+      logo: https://i.ibb.co/GQJ4dpW/letpub.png
+      url: http://www.letpub.com.cn/index.php?journalid=4553&page=journalapp&view=detail
+      description: letpub   
+    - title: 维基百科中文
+      logo: https://i.ibb.co/p3NLy56/image.png
+      url: https://www.wikipedia.org/
+      description: 百度查不到的知识点看这里~
+    - title: Github
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/GitHub.png
+      url: https://github.com/
+      description: 一个面向开源及私有软件项目的托管平台。
+    - title: 飞书
+      logo: https://i.ibb.co/pvG9HzY/image.png
+      url: https://l0avwd4sg2.feishu.cn/drive/home/
+      description: 一个面向开源及私有软件项目的托管平台。
+    - title: chatgpt3.5
+      logo: https://i.ibb.co/ysxvFJb/2023-08-08-183057.png
+      url: https://my.aigcplus.io/chat/13867169439045
+      description: 用来查询matlab代码  
+    - title: overleaf
+      logo: https://i.ibb.co/FX0QmF0/OIP-C.jpg
+      url: https://www.overleaf.com/
+      description: 用来写手记，写实验记录均可  
+
+      
+- name: Ocean University of China
+  icon: linecons-database
+  links:
+    - title: 中国海洋大学信息门户
+      logo: https://i.ibb.co/HFP6rP2/0007019870654204-b.jpg
+      url: https://my.ouc.edu.cn/
+      description: 关于学业的一切进这里 
+    - title: 中心实验室
+      logo: https://i.ibb.co/Rp9PF3v/20230523160717.jpg
+      url: http://180.201.194.8/cf/main/!equipments/equipment/index.36.reserv
+      description: 中国海洋大学食品学院仪器测试中心，电话0532-82031908。 
+    - title: 统一支付平台
+      logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/alicloud.png
+      url: http://pay.ouc.edu.cn/login.aspx?local=zh-cn
+      description: 交学费，保险费 
+      
+- name: 办公ing
+  icon: linecons-star
+  links:
+    - title: 微信传输助手网页端
+      logo: https://i.ibb.co/5n5yX7C/image.png
+      url: https://filehelper.weixin.qq.com/
+      description: 无需登录即可传输数据  
+    - title: 163邮箱
+      logo: https://i.ibb.co/ts09sXH/image.jpg
+      url: https://hw.mail.163.com/#163
+      description: 网易163
+    - title: QQ邮箱
+      logo: https://i.ibb.co/HqxXC7v/QQ.png
+      url: https://mail.qq.com/
+      description: 腾讯qq     
+    - title: outlook邮箱
+      logo: https://i.ibb.co/FwXzN63/outlook.jpg
+      url: https://outlook.live.com/
+      description: microsoft outlook     
+      
+- name: 科研工具
+  icon: linecons-pencil
+  sub:
+    - name: 文献资源检索
+      links:
+        - title: 浙江图书馆（万方资源）
+          logo: https://i.ibb.co/2hdTkv9/image.jpg
+          url: https://www.zjlib.cn/
+          description: 浙江图书馆，读者号是身份证号~      
+        - title: pqdtcn
+          logo: https://i.ibb.co/51DRH2b/image.png
+          url: https://www.pqdtcn.com/
+          description: 国外学位论文中国集团全文检索平台
+        - title: libgen
+          logo: https://i.ibb.co/m0H2Bzw/libgen-rs.png
+          url: http://libgen.rs/
+          description: 国外的书籍来这里检索，几乎都有。          
+        - title: ZCOOL国家自然科学基金查询-已更新2022年最新数据
+          logo: https://i.ibb.co/2MtYGVq/image.png
+          url: http://fund.keyanzhiku.com/
+          description: 基金检索 
+        - title: 科学网基金
+          logo: https://i.ibb.co/yn1jWdp/image.png
+          url: https://fund.sciencenet.cn/
+          description: 科学网基金 
+        - title: 国家科技报告
+          logo: https://i.ibb.co/mHCLyMR/image.png
+          url: https://www.nstrs.cn/index;JSESSIONID=cf8f381ec6dc4a5490be4a05506f5542
+          description: 国家科技报告          
+        - title: 中国统计年鉴
+          logo: https://i.ibb.co/LQVTftP/image.png
+          url: http://www.stats.gov.cn/
+          description: 国家统计局出具的报告  
+                       
+- name: Something
+  icon: linecons-lightbulb
+  sub:
+    - name: 翻译
+      links:
+        - title: deepl
+          logo: https://i.ibb.co/wwtpx1B/deepl.png
+          url: https://www.deepl.com/
+          description: 翻译翻译~         
+        - title: 搜狗文档翻译
+          logo: https://i.ibb.co/yYHz3Fy/image.jpg
+          url: https://fanyi.sogou.com/document
+          description: 每个月100页，多了收费哦     
+        - title: superdoctranslator
+          url: https://superdoctranslator.com/
+          logo: https://i.ibb.co/0hMMwLH/image.png
+          description: 一个翻译平台，需要百度appid
+
+    - name: 专利检索
+      links:
+        - title: 国家知识产权局
+          url: https://www.cnipa.gov.cn/
+          logo: https://i.ibb.co/xjsKCnD/image.png
+          description: 国家知识产权局
+        - title: 谷歌专利
+          url: https://patents.google.com/
+          logo: https://i.ibb.co/g3K3DgX/image.png
+          description: 谷歌专利检索
+        - title: 专利信息服务平台
+          url: http://search.cnipr.com/
+          logo: https://i.ibb.co/SvjbJR4/image.png
+          description: 专利信息服务平台，这个也是国家的哦
+        - title: 佰腾网
+          url: https://www.baiten.cn/
+          logo: https://i.ibb.co/F342WxC/image.png
+          description: 需要注册，基本都能检索到  
+        - title: soopat
+          url: http://www2.soopat.com/home/iindex
+          logo: https://i.ibb.co/pjtThZB/soopat.png
+          description: 需注册             
+
+      
+- name: 软件编程
+  icon: linecons-database
+  links:
+  sub:
+    - name: 编程常用
+      links:
+        - title: imgBB
+          logo: https://i.ibb.co/VB2zg7Z/imgbb.png
+          url: https://imgbb.com/
+          description: 把图片上传到云端，引用
+        - title: 微信开放社区
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/weixindeveloper.png
+          url: https://developers.weixin.qq.com/
+          description: 微信相关开发交流社区。
+        - title: W3School
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/w3s.png
+          url: https://www.w3school.com.cn/
+          description: 领先的Web技术教程。
+        - title: 菜鸟教程
+          logo: https://i.ibb.co/VB2zg7Z/imgbb.png
+          url: https://www.runoob.com/
+          description: 编程菜鸟在这里（我）。
+
+- name: 软件
+  icon: linecons-desktop
+  sub:
+    - name: 实用工具
+      links:
+        - title: 7-Zip
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/7zip.png
+          url: https://www.7-zip.org/
+          description: 好用的解压软件
+        - title: Snipaste
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/snipaste.png
+          url: https://www.snipaste.com/
+          description: 超好用的截图软件
+        - title: Typora
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Typora.png
+          url: https://typoraio.cn/
+          description: 一款很好用的MarkDown编辑器
+        - title: docsmall
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/docsmall.png
+          url: https://docsmall.com/
+          description: 在线文件处理工具
+
+    - name: 设计工具
+      links:
+        - title: Imagine
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/weblogo/Imagine.png
+          url: https://github.com/meowtec/Imagine/releases
+          description: 图片压缩工具
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: https://ning-blog-1304206373.cos.ap-nanjing.myqcloud.com/image/WebsiteCollection/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+
+
+         
